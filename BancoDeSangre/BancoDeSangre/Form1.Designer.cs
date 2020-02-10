@@ -37,7 +37,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(158, 81);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Pro";
+            this.button1.Text = "Pathfinder";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

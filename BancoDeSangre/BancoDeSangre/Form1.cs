@@ -19,7 +19,7 @@ namespace BancoDeSangre
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("\"Perder no es divertido, por eso no lo hago\" ");
         }
     }
 }
