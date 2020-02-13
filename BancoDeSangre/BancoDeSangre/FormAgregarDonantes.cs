@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace BancoDeSangre
 {
-    public partial class Form1 : Form
+    public partial class FormAgregarDonantes : Form
     {
-        public Form1()
+        public FormAgregarDonantes()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("\"Perder no es divertido, por eso no lo hago\" ");
         }
     }
 }
