@@ -52,7 +52,7 @@ namespace BancoDeSangre
             }
             else
             {
-                MessageBox.Show("Usuario o contraseña incorrecta");
+                MessageBox.Show("¡Usuario o contraseña incorrecta!");
             }
 
         }
